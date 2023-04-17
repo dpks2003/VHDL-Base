@@ -14,4 +14,4 @@ List OF Projects
 
  6.  ELectonic Voting Meching Simulation 
  
- 7. 8 Bit Microcontoller Silumation  
+ 7. 8 Bit Microcontoller Silumation  ( on going ) 
